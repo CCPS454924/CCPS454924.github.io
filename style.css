@@ -2,3 +2,10 @@
 body {
 background-color: #fff6e8;
 }
+
+header {
+  z-index: 1;
+  width: 100%;
+  position: fixed;
+  background-color: #333333;
+}
