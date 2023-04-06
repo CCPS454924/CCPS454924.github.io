@@ -5,6 +5,6 @@ background-color: #fff6e8;
 
 header {
   width: 100%;
-  position: fixed;
+  position: relative;
   background-color: #defaf9;
 }
